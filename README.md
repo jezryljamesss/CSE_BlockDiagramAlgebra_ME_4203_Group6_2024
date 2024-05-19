@@ -30,8 +30,9 @@ Sinusoidal source
 
 
 Albo, Jeff Leonard C. 
+Valenton, Jezryl James F. 
 
-Number 1
+Number 2
 
 Step Response
 
@@ -44,9 +45,9 @@ Original Block Diagram
 
 
 Reduced Block Diagram
-
-![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161361767/508a2f54-86d4-431f-a6c3-7341e407e024)
+![441487555_982440696747195_4659779135761513237_n](https://github.com/jezryljamesss/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161010463/f8258812-ef8e-40ee-9a73-20ce58b23424)
 
 
 Sinusoidal Source
+![440765107_956694772588760_4198000300884082180_n](https://github.com/jezryljamesss/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161010463/98cc5816-ab5e-4555-b7ea-2fd3b23b89f7)
 
