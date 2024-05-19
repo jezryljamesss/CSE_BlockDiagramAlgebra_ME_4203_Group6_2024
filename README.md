@@ -21,3 +21,10 @@ Reduced Block Diagram
 Sinusoidal source
 
 ![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/160556975/c503853b-691a-4d71-aa0e-5bafc6ad4184)
+
+
+Albo, Jeff Leonard C. 
+Number 1
+
+Original Block Diagram
+
