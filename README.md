@@ -1,5 +1,7 @@
 # CSE_BlockDiagramAlgebra_ME_4203_Group6_2024
 
+NOTE: All values obtained are directly substituted to avoid shadowing.
+
 Alcantara, Vincent L.
 Number 1
 
