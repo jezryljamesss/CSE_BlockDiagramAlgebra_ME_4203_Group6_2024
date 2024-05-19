@@ -30,7 +30,9 @@ Sinusoidal source
 
 
 Albo, Jeff Leonard C. 
+
 Number 1
+
 Step Response
 
 ![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161361767/d61cf033-fb3e-4166-a3d3-2999f824b09d)
@@ -39,6 +41,12 @@ Step Response
 Original Block Diagram
 
 ![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161361767/b1eccbe5-9221-45e7-96fb-83e465600f55)
+
+
+Reduced Block Diagram
+
+![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161361767/508a2f54-86d4-431f-a6c3-7341e407e024)
+
 
 
 
