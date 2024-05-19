@@ -48,5 +48,5 @@ Reduced Block Diagram
 ![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161361767/508a2f54-86d4-431f-a6c3-7341e407e024)
 
 
-
+Sinusoidal Source
 
