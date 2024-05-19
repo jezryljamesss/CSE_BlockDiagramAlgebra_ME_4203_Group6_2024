@@ -28,3 +28,5 @@ Number 1
 
 Original Block Diagram
 
+![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/161361767/c6160e81-6cb8-4f0b-a74b-54c414c4372d)
+
