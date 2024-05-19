@@ -3,6 +3,10 @@
 Alcantara, Vincent L.
 Number 1
 
+MATLAB Step Response
+![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/160556975/6e76d8fa-e22c-4623-b2fe-fcabcf96c0d6)
+
+
 Original Block Diagram
 
 ![image](https://github.com/Vincent-Alcantara/CSE_BlockDiagramAlgebra_ME_4203_Group6_2024/assets/160556975/356a2971-5a56-4107-b27c-e81082f08fc9)
